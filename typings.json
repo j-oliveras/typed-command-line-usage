@@ -1,0 +1,16 @@
+{
+  "name": "command-line-usage",
+  "main": "index.d.ts",
+  "homepage": "https://github.com/75lb/command-line-usage",
+  "version": "3.0.7",
+  "globalDevDependencies": {
+    "node": "registry:env/node#6.0.0+20161105011511"
+  },
+  "devDependencies": {
+    "blue-tape": "registry:npm/blue-tape#0.2.0+20160723033700"
+  },
+  "dependencies": {
+    "command-line-args": "registry:npm/command-line-args#3.0.2+20161102220831",
+    "table-layout": "registry:npm/table-layout#0.2.3+20161105231608"
+  }
+}
